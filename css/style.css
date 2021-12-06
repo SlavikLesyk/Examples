@@ -1,0 +1,29 @@
+body {
+  font-family: roboto, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.heading {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.img {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-item {
+  width: 40%;
+  margin-bottom: 40px;
+}
